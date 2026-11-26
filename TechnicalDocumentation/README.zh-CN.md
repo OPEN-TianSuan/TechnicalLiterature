@@ -11,7 +11,7 @@
 | 名称 | 资源类型 | 发布方 | 版本或日期 | 简介 |
 | --- | --- | --- | --- | --- |
 | [《太空云技术与标准研究报告（第一版）》](docs/太空云技术与标准研究报告（第一版）.pdf) | 研究报告 | 云计算标准与应用工业与信息化部重点实验室联合若干研究所、高校 | 第一版 | 聚焦太空云技术及相关标准的第一版研究报告，可供了解云化太空系统技术背景与标准化语境的读者参考。 |
-| [All Satellite Projects from GitHub](docs/All%20Satellite%20Projects%20from%20GitHub.xlsx) | 社区整理的项目参考清单 | OPEN-TianSuan 社区成员 | 2026.6 | 由社区成员完成的卫星软件相关 GitHub 项目参考清单，来源于以下工作：Jinfeng Wen、Qi Liang、Yuehan Sun、Federica Sarro、Ao Zhou、Xuanzhe Liu、Shangguang Wang，《Characterizing the landscape of open-source satellite software》，发表于 2026 年 IEEE/ACM International Conference on Automated Software Engineering（ASE）[URL](https://arxiv.org/abs/2608.26211) 。 |
+| [太空操作系统开源标准倡议](docs/太空操作系统开源标准倡议-.pdf) | 社区原创的关于太空操作系统开放开源标准的相关措施。 | OPEN-TianSuan 社区成员 | 2026 | 面向星座时代提出一套开放、分层的太空算力标准架构：以统一服务接口层、地面编排层和星上执行层连接异构星载硬件，定义轨道 IaaS/CaaS/FaaS/SaaS 的服务语义与服务等级目标，覆盖预置部署、跨星迁移、能源与热感知调度、抗辐照恢复与审计、策略租约自治及多租户公平归因；并以开源方式开放接口规范、软件开发套件、参考实现、一致性测试与仿真环境，给出从单任务云化到跨运营商联邦的四阶段演进路线，以及“接口基线—参考实现—场景验证—开放治理”的实施路径，旨在把太空算力转化为可调用、可计量、可验证的基础设施，凝聚产学研力量共建开放生态。 |
 
 该表格是卫星软件相关项目的参考清单，不是软件分发包。本目录不收录其中项目的源代码，使用时请通过表格中的项目链接访问其可能存在的外部代码仓库。
 
